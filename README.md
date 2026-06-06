@@ -45,3 +45,21 @@ A TCP client that:
 python3 webserver.py
 ```
 Then open your browser and navigate to:
+http://localhost:8089/Helloworld.html
+
+**Run the multithreaded server:**
+```bash
+python3 multithreadedserver.py
+```
+
+**Run the client (in a separate terminal):**
+```bash
+python3 client.py <host> <port> <filename>
+```
+
+**Example:**
+```bash
+python3 client.py localhost 8089 testfile.txt
+```
+
+## Project Structure
