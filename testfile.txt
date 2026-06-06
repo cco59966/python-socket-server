@@ -1,0 +1,2 @@
+The URL for a GET request generally carries some parameters with it. For the requests library, parameters can be defined as a
+Almost any Python library can be used in AWS Lambda.
